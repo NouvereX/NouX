@@ -6,7 +6,7 @@ def display_menu():
 def HitungLuas():
   clearScreen()
   def persegi():
-    clearScreen():
+    
       print("--LUAS PERSEGI--")
       
       
@@ -16,7 +16,7 @@ def HitungLuas():
       print"Luasnya adalah",Luas
       
       
-      display_menu():
+      
         
 def persegipanjang():
   
@@ -27,7 +27,7 @@ def persegipanjang():
     luas= panjang*lebar
     print"Luasnya adalah",luas
     
-    display_menu():
+    
       
 def segitiga():
   
@@ -38,7 +38,7 @@ def segitiga():
     luas: alas*tinggi/2
     print"Luasnya adalah",Luas
      
-     display_menu():
+     
  
  def lingkaran():
    
@@ -50,7 +50,7 @@ def segitiga():
      print"Luasnya adalah",Luas
      
      
-     display_menu():
+     
      
         
         
