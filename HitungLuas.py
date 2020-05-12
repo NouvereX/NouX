@@ -1,7 +1,8 @@
 HitungLuas()
 def display_menu():
   raw_input("")
-  Hitung Luas()
+
+
 def HitungLuas():
   clearScreen()
   def persegi():
