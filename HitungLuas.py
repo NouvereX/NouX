@@ -19,7 +19,7 @@ def HitungLuas():
       display_menu():
         
 def persegipanjang():
-  clearScreen():
+  
     print("--LUAS PERSEGI PANJANG--")
     
     sisi = input("Masukkan panjang:,lebar:")
@@ -30,7 +30,7 @@ def persegipanjang():
     display_menu():
       
 def segitiga():
-  clearScreen():
+  
     print("--LUAS SEGITIGA--")
     
     sisi = input('Masukkan alas:,sisi:')
@@ -41,7 +41,7 @@ def segitiga():
      display_menu():
  
  def lingkaran():
-   clearScreen():
+   
      print("--LUAS LINGKARAN")
      
      sisi = input('Masukkan jari-jari:')
